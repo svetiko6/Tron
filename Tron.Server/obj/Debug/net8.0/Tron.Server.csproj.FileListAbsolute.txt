@@ -16,3 +16,4 @@ C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Server\obj\Debug\ne
 C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Server\obj\Debug\net8.0\Tron.Server.pdb
 C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Server\obj\Debug\net8.0\Tron.Server.genruntimeconfig.cache
 C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Server\obj\Debug\net8.0\ref\Tron.Server.dll
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Server\obj\Debug\net8.0\Tron.Server.sourcelink.json

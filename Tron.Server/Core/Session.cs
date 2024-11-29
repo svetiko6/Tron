@@ -1,6 +1,6 @@
 ﻿using Tron.Common.Messages.General;
 using Tron.Common.Networking.P2P;
-using Tron.Server.Networking;
+using Tron.Server.Networking.P2MP;
 using Tron.Server.Persistence.QueryHandlers;
 
 namespace Tron.Server.Core
