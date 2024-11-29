@@ -1,0 +1,9 @@
+﻿<Application x:Class="Tron.Client.Application.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Tron.Client.Application"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <FontFamily x:Key="Tiny">pack://application:,,,/Resources/Fonts/#Tiny5</FontFamily>
+    </Application.Resources>
+</Application>

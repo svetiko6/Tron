@@ -1,6 +1,6 @@
 ﻿using System.Net;
 using Tron.Common.Networking.P2P;
-using Tron.Server.Networking;
+using Tron.Server.Networking.P2P;
 using Tron.Server.Persistence.QueryHandlers;
 
 namespace Tron.Server.Core
@@ -22,8 +22,7 @@ namespace Tron.Server.Core
         {
             while (true)
             {
-                UdpConnection connection = _acceptor.Accept();
-                UdpUnicaster unicaster = new UdpUnicaster(connection);
+                UdpUnicaster unicaster = _acceptor.Accept();
                 Session session = new Session(_queryHandler, unicaster);
                 Task.Run(session.Run);
             }
