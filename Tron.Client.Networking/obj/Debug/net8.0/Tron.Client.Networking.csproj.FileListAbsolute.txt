@@ -1,0 +1,16 @@
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\bin\Debug\net8.0\Tron.Client.Networking.deps.json
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\bin\Debug\net8.0\Tron.Client.Networking.dll
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\bin\Debug\net8.0\Tron.Client.Networking.pdb
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\bin\Debug\net8.0\Tron.Common.dll
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\bin\Debug\net8.0\Tron.Common.pdb
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\Tron.Client.Networking.csproj.AssemblyReference.cache
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\Tron.Client.Networking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\Tron.Client.Networking.AssemblyInfoInputs.cache
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\Tron.Client.Networking.AssemblyInfo.cs
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\Tron.Client.Networking.csproj.CoreCompileInputs.cache
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\Tron.Client.Networking.sourcelink.json
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\Tron.Cli.0FD87F69.Up2Date
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\Tron.Client.Networking.dll
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\refint\Tron.Client.Networking.dll
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\Tron.Client.Networking.pdb
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Networking\obj\Debug\net8.0\ref\Tron.Client.Networking.dll

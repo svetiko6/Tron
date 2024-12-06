@@ -1,0 +1,20 @@
+﻿Tron.Client.Application
+
+
+winexe
+C#
+.cs
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Application\obj\Release\net8.0-windows\
+Tron.Client.Application
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\Users\akhmy\Documents\Projects\Visual Studio\C#\Tron\Tron.Client.Application\App.xaml
+9-202169041
+
+121134328098
+2002015658082
+MainWindow.xaml;Pages\Menu\MenuPage.xaml;Pages\Multiplayer\CreateLobbyPage.xaml;Pages\Multiplayer\CreateOrJoinPage.xaml;Pages\Multiplayer\JoinLobbyPage.xaml;Pages\Settings\SettingsPage.xaml;Pages\Tracks\LargeTrack.xaml;Pages\Tracks\MediumTrack.xaml;Pages\Tracks\SmallTrack.xaml;
+
+True
+

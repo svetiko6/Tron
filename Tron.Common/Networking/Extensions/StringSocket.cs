@@ -13,7 +13,7 @@ namespace Tron.Common.Networking.Extensions
             local.Send(bytes, remote);
         }
 
-        public static string ReceiveString(this UdpClient local, ref IPEndPoint remote)
+        public static string ReceiveString(this UdpClient local, IPEndPoint remote)
         {
             byte[] bytes = local.Receive(ref remote);
 

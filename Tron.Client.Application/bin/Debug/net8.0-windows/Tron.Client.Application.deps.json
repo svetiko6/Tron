@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tron.Client.Application/1.0.0": {
+        "dependencies": {
+          "Tron.Client.Networking": "1.0.0",
+          "Tron.Common": "1.0.0"
+        },
+        "runtime": {
+          "Tron.Client.Application.dll": {}
+        }
+      },
+      "Tron.Client.Networking/1.0.0": {
+        "dependencies": {
+          "Tron.Common": "1.0.0"
+        },
+        "runtime": {
+          "Tron.Client.Networking.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Tron.Common/1.0.0": {
+        "runtime": {
+          "Tron.Common.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tron.Client.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tron.Client.Networking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tron.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
